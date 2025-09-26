@@ -6,6 +6,7 @@ facebook.com, 402494555675672, DIRECT, c3e20eee3f780d68
 indexexchange.com, 194974, RESELLER, 50b1c356f2c5c8fc
 appnexus.com, 12941, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12752, RESELLER, f5ab79cb980f11d1
+pubmatic.com, 167188, RESELLER, 5d62403b186f2ace
 appnexus.com, 12969, RESELLER, f5ab79cb980f11d1
 pubmatic.com, 159382, RESELLER
 smaato.com, 1100057628, RESELLER, 07bcf65f187117b4
